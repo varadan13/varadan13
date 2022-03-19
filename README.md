@@ -7,8 +7,7 @@ I'm currently learning
 - How to ask great questions?
 
 Fun Fact
-- I listen to the same set of audiobooks while refactoring and doing light weight coding. 
-It helps me put my mind into the deep work mode. 
+- I listen to the same set of audiobooks it helps me put my mind into the deep work mode. 
 
 <!--
 **varadan13/varadan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
