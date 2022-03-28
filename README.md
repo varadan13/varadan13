@@ -8,7 +8,7 @@ I'm currently learning
 
 Fun Fact
 - I listen to the same set of audiobooks it helps me put my mind into the deep work mode. 
-- I do not support any war nor do I support the righteous indignation of the world towards the Ukraine War because this world changes its opinion based on who the oppressor is. 
+
 
 <!--
 **varadan13/varadan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
