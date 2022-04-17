@@ -1,4 +1,5 @@
 ### Hi there 👋
+Fuck you hiring managers. You think you cant hire me because I wont answer your trick questions. Guess what hire those fools who spends their entire day memorising stupid stuff and ass liking your employees for references. And no wonder you are company is losing money because your employees are enjoying butt licking.
 
 I'm currently learning
 - E Commerce Domain
