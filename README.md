@@ -10,6 +10,7 @@ I'm currently learning
 Fun Fact
 - I listen to the same set of audiobooks it helps me put my mind into the deep work mode. 
 
+I hate Nextjs
 
 <!--
 **varadan13/varadan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
