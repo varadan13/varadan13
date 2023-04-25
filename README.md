@@ -9,6 +9,7 @@ I'm currently learning
 
 Fun Fact
 - I listen to the same set of audiobooks it helps me put my mind into the deep work mode. 
+- I hate Apple products.
 
 
 <!--
