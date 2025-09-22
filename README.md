@@ -6,10 +6,10 @@ I'm currently learning
 - How to write clean code?
 - How to think about a real life problem? 
 - How to ask great questions?
+- How to become a leader?
 
 Fun Fact
 - I listen to the same set of audiobooks it helps me put my mind into the deep work mode. 
-- I hate Apple products.
 
 
 <!--
