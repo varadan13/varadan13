@@ -117,3 +117,7 @@ I am a person who believes in growth and loves to solve and think about real-lif
 - Official MCP library   
 - Vercel AI SDK
 - Fast MCP
+
+```js
+atob("VGhlIHRydXRoIGlzIHdheSBtb3JlIGRlcHJlc3NpbmcuIFRoZXkgYXJlIG5vdCBldmVuIHNtYXJ0IGVub3VnaCB0byBiZSBhcyBldmlsIGFzIHlvdSdyZSBnaXZpbmcgdGhlbSBjcmVkaXQgZm9yLg==")
+```
